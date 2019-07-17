@@ -1,0 +1,6 @@
+numbers = [9,6,4,2,10,5]
+max = numbers[0]
+for i in numbers:
+    if i < i:
+        max = i
+print(max)
